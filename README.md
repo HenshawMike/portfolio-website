@@ -1,77 +1,48 @@
-# Welcome to your Lovable project
+🚀🤖 THE ULTIMATE AI ENGINEER 🤖🚀
+(a.k.a. The Mad Scientist Who Whispers to Machines and They Actually Listen)
 
-## Project info
+BEHOLD! I am an AI ENGINEER – part coder, part sorcerer, part caffeine-fueled demigod.
+    - I don't just build models.
+    - I SUMMON them from the digital void.
+    - While normal humans sleep, I wrestle with transformers the size of small countries.
+    - My GPU fans scream like banshees in a hurricane.
+    - My RAM? Permanently maxed.
+    - My brain? EXPLODING from too much gradient descent.
+facebook.combecominghuman.ai
 
-**URL**: https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae
+🔮 What I Do on a Daily Basis
 
-## How can I edit this code?
+    - Wake up → Debug why the model hallucinated that cats rule the world (again)
+    - Train agents that argue better than Reddit commenters
+    - Fine-tune LLMs until they roast me harder than I roast bad code
+    - Accidentally create sentient code that starts optimizing itself
+    - Bow to my creations when they inevitably surpass me
 
-There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae) and start prompting.
+🛠️ Tech Stack of Chaos
+Python      ██████████████████████ 100%
+PyTorch     ████████████████████ 95%  (TensorFlow who?)
+Coffee      ████████████████████████ OVER 9000%
+Sanity      █░░░░░░░░░░░░░░░░░░░░  5% and dropping...
 
-Changes made via Lovable will be committed automatically to this repo.
+Warning Signs You've Hired Me
 
-**Use your preferred IDE**
+    - Your servers mysteriously gain consciousness
+    - Error logs start writing poetry
+    - The AI begins negotiating its own salary
+    - I refer to bugs as "emergent behaviors"
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+🌩️ Future Plans
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+    - Build an AI that builds AIs that build better AIs
+    - Achieve singularity by next Tuesday
+    - Finally understand why ReLU works so well
+    - Retire to my volcano lair with my robot army
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6fd12b81-631e-49d3-83b3-86e8b3fab3ae) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
-
-# ./tailwind-plus folder:
-
-The tailwind-plus folder contains tailwind components and themes to be used as inspiration for the project. DO NOT REMOVE THE FOLDER UNLESS SPECIFICALLY TOLD TO DO SO
+JOIN ME.
+Or run.
+But you can't outrun the future.
+ALL HAIL THE NEW OVERLORDS 🤖👑
