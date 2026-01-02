@@ -86,6 +86,33 @@ export const projects: Project[] = [
 
     ]
   },
+  { 
+    id:'4',
+    title: 'multi-agent-research-assitant',
+    category: 'ai-agent',
+    year: '2026',
+    slug: 'multi-agent-research-assitant',
+    coverImage: '/images/ml3.png',
+    description: 'A multi-agent system that can assist in research',
+    techStack: ['Python', 'Streamlit'],
+    github: 'https://github.com/HenshawMike/multi-agent-research-assitant',
+    liveDemo:'https://multi-agent-research-assistant-s.streamlit.app/',
+    images: [
+      {
+        id: '4-1',
+        src: 'images/ml03.png',
+        alt: 'multi-agent-research-assitant',
+        aspectRatio: 'landscape'
+      },
+      {
+        id: '4-2',
+        src: '/images/ml4.png',
+        alt: 'multi-agent-research-assitant',
+        aspectRatio: 'landscape'
+      }
+
+    ]
+  },
   
 ];
 
